@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ql/FpswFld83cgUL3AUlRrzWsKiKGVpK57rhISORzLg=",
+  "Source": "stripe-backend",
+  "BasePath": "_content/stripe-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
