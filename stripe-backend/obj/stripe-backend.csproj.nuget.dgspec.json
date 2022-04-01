@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\stripe-backend\\stripe-backend\\stripe-backend\\stripe-backend.csproj": {}
+    "D:\\stripe-backend\\stripe-backend\\Stripe-Backend-DotNet6\\stripe-backend\\stripe-backend.csproj": {}
   },
   "projects": {
-    "D:\\stripe-backend\\stripe-backend\\stripe-backend\\stripe-backend.csproj": {
+    "D:\\stripe-backend\\stripe-backend\\Stripe-Backend-DotNet6\\stripe-backend\\stripe-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\stripe-backend\\stripe-backend\\stripe-backend\\stripe-backend.csproj",
+        "projectUniqueName": "D:\\stripe-backend\\stripe-backend\\Stripe-Backend-DotNet6\\stripe-backend\\stripe-backend.csproj",
         "projectName": "stripe-backend",
-        "projectPath": "D:\\stripe-backend\\stripe-backend\\stripe-backend\\stripe-backend.csproj",
+        "projectPath": "D:\\stripe-backend\\stripe-backend\\Stripe-Backend-DotNet6\\stripe-backend\\stripe-backend.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\stripe-backend\\stripe-backend\\stripe-backend\\obj\\",
+        "outputPath": "D:\\stripe-backend\\stripe-backend\\Stripe-Backend-DotNet6\\stripe-backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
